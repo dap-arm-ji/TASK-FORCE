@@ -2,10 +2,13 @@
 
 # 💻 기술스택
 - APP : react native
-- Server : nestJS
+- Server : nestJS + neo4j
   
 # 📖 Rule
-- 회의시간 : `매주 수요일 23:00`
+- 회의시간 : `매주 목요일 12:00`
+- 회의장소 : `discord`
+- 진행사항은 github issue와 projects로 공유하기
+- 호칭은 ${이름}님으로 하기
 
 # 🙋‍♂️ 요구사항
 ## 사용자
@@ -48,4 +51,5 @@
 2. 팔로우한 사용자가 해설을 작성하면 알림이 온다.
 
 # 🛠️ 설계
+ui ux erd infra api 
 # 🧑‍🤝‍🧑 Git Convention

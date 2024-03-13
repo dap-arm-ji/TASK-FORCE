@@ -55,5 +55,10 @@
 2. 팔로우한 사용자가 해설을 작성하면 알림이 온다.
 
 # 🛠️ 설계
-ui ux erd infra api 
+## UI
+[figma link](https://www.figma.com/file/wlnfCdBN9G9yu9J7E8aZNn/App-UI?type=design&node-id=0%3A1&mode=design&t=1l3IgGCmiSLPYbbU-1)
+## ERD
+## Infra
+## API DOCS
+
 # 🧑‍🤝‍🧑 Git Convention

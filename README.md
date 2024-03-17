@@ -2,7 +2,7 @@
 
 # 💻 기술스택
 - APP : react native
-- Server : nestJS + neo4j
+- Server : nestJS
   
 # 📖 Rule
 - 회의시간 : `매주 목요일 12:00`
@@ -62,3 +62,4 @@
 ## API DOCS
 
 # 🧑‍🤝‍🧑 Git Convention
+[Udacity Style translate](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/Git%20Commit%20Message%20Convention.md)

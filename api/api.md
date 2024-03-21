@@ -80,7 +80,7 @@
 | id        | number |
 | name      | string |
 | gym       | string |
-| Thumnaiil | url    |
+| Thumnail | url    |
 | createdAt | Date   |
 
 ## 해설 - 눌러서 들어갔을 때
@@ -90,7 +90,7 @@
 | id           | number |
 | name         | string |
 | gym          | string |
-| image        | url    |
+| Thumnail     | url    |
 | createdAt    | Date   |
 | like         | number |
 | video        | url    |

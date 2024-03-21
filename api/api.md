@@ -1,5 +1,6 @@
 # API
 ## 로그인
+- 추후 OAuth로 구현 예정
 
 | 항목           | 내용                                     |
 | ------------ | -------------------------------------- |
@@ -21,6 +22,7 @@
 ---
 
 ## 지도 검색
+- API 이용
 
 | 항목       | 내용              |
 | -------- | --------------- |
@@ -31,6 +33,7 @@
 ---
 
 ## 해설 검색
+- search 필요한 건지 찾아봐야 함
 
 | 항목                       | 내용                                                                     |
 | ------------------------ | ---------------------------------------------------------------------- |
@@ -45,7 +48,7 @@
 
 | 항목           | 내용                                                                                 |
 | ------------ | ---------------------------------------------------------------------------------- |
-| URL          | `/explanation/write?difficulty=blue&color=green&type=tohook`                       |
+| URL          | `/explanation/?difficulty=blue&color=green&type=tohook`                            |
 | Method       | `POST`                                                                             |
 | Request Body | `difficulty`: string, `color`: string, `type`: string, `video`: string (풀이 영상 URL) |
 | Response     | `message`: string                                                                  |
@@ -56,9 +59,6 @@
 ## 나중에 추가하면 좋을 것 같은 UI
 - 마이페이지
 - 즐겨찾기 기능
-
-의문
-- app에서 페이징은 어떻게 구현되는가
 
 ---
 
@@ -80,7 +80,7 @@
 | id        | number |
 | name      | string |
 | gym       | string |
-| image     | url    |
+| Thumnaiil | url    |
 | createdAt | Date   |
 
 ## 해설 - 눌러서 들어갔을 때
@@ -95,5 +95,4 @@
 | like         | number |
 | video        | url    |
 | descriptions | string |
-
 
